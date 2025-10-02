@@ -12,14 +12,7 @@ authors = [
     {name = "Totalite Team"}
 ]
 
-dependencies = [
-    "pydantic-settings>=2.10.0",
-    "streamlit>=1.47.0",
-    "sqlalchemy>=2.0.0",
-    "psycopg2-binary>=2.9.0",
-    "pandas>=2.0.0",
-    "plotly>=6.2.0",
-]
+
 
 [project.optional-dependencies]
 dev = [
